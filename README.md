@@ -1,1 +1,1 @@
-TinDog Starting Files
+This website is made for fun.
